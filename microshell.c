@@ -607,7 +607,7 @@ void CD(char *path)
 void HELP()
 {
     printf("Witam w Microshellu!\n");
-    printf("Autor: Alicja Szulecka\n");
+    printf("Autor: ***\n");
     printf("Oferowane funkcje:\n");
     printf("-Podstawowe komendy zawarte w ścieżce PATH, wykonane za pomocą execvp i fork\n");
     printf("-help - pokazuje dostepne funkcje\n");
